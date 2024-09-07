@@ -5,13 +5,17 @@ Dalam PPT tersebut, terdapat beberapa contoh karya dan pencapaian saya untuk dig
 #### 1.	Tersertifikasi Resmi sebagai Excel Expert oleh Microsoft
 Sertifikasi Excel Expert oleh Microsoft adalah salah satu sertifikasi resmi yang diakui secara internasional dalam rangkaian Microsoft Office Specialist (MOS). Sertifikasi ini dirancang untuk membuktikan kemampuan tingkat lanjut dalam menggunakan Microsoft Excel, khususnya dalam memanfaatkan fitur-fitur canggih aplikasi tersebut.
 
+Link Sertifikasi : [Klik Link Ini](https://github.com/RakaAndriawan/PortofolioCASN2024/blob/main/Sertifikat%20Dokumen%20Pendukung/Sertifikasi%20Excel%20Expert.pdf)
+
 #### 2.	Juara Satu Lomba Karya Tulis Ilmiah Jambore oleh Himasta FMIPA Universitas Mulawarman Tahun 2018
 Terinspirasi upaya Suroboyo Bus dalam meningkatkan kesadaran masyarakat terhadap penanganan sampah. Bertujuan memberikan gambaran perilaku dan motivasi pengguna Suroboyo Bus dan proyeksi kontribusi penanganan sampah ke depanya. Data yang digunakan merupakan data primer melalui survei online kepada pengguna Suroboyo Bus dan data sekunder dari DKRTH Surabaya terkait penyisiran sampah oleh Suroboyo Bus dan kota Surabaya secara umum. Metode yang digunakan yaitu statistika deskripsi pada data hasil survei pengguna dan program R untuk estimasi proyeksi penanganan sampah menggunakan deret fourier. Berdasarkan analisa, sebagian besar pengguna masih menganggapnya sebagai fasilitas rekreasi dan sampah yang dikumpulkan kurang signifikan
+
+Link Sertifikasi : [Klik Link Ini](https://github.com/RakaAndriawan/PortofolioCASN2024/blob/main/Sertifikat%20Dokumen%20Pendukung/Sertifikat%20Juara%201%20Lomba%20KTI.pdf)
 
 #### 3.	Presentasi Poster pada Konferensi Internasional DSSV di Kyoto, Jepang Tahun 2019
 Pemodelan Regresi Spasial atau Geographically Weighted Regression pada data panel, menjadi model Geographically Weighted Regression. Model digunakan untuk memodelkan curah hujan berdasarkan kelembapan udara, suhu, lama penyinaran, kecapatan angin. Artikel ilmiah ini dipresentasikan melalui poster pada konferensi internasional DSSV di Kyoto, Jepang Tahun 2019.
 
-Link Sertifikasi  : [Klik Link Ini](https://github.com/RakaAndriawan/PortofolioCASN2024/tree/main/Sertifikat%20Dokumen%20Pendukung)
+Link Sertifikasi  : [Klik Link Ini](https://github.com/RakaAndriawan/PortofolioCASN2024/blob/main/Sertifikat%20Dokumen%20Pendukung/Sertifikat%20Presentasi%20DSSV.pdf)
 
 Link Poster       : [Klik Link Ini](https://github.com/RakaAndriawan/PortofolioCASN2024/blob/main/Poster%20Presentasi%20DSSV.jpg)
 
@@ -59,6 +63,8 @@ Saat ini, aplikasi ini hanya mencakup saham-saham Indonesia. Daftar saham yang t
 Link Source Code  : [Klik Link Ini](https://github.com/RakaAndriawan/PortfolioAnalysis)
 
 Link Aplikasi Web : [Klik Link Ini](https://rakaandriawan-portfolioanalysis-streamlit-app-l4wsvu.streamlit.app/)
+
+Link Petunjuk Aplikasi : [Klik Link Ini](https://github.com/RakaAndriawan/PortofolioCASN2024/blob/main/Petunjuk%20Penggunaan%20Aplikasi%20Web%20Streamlit.pdf)
 
 #### 7.	Migration Flow of Indonesia 2020
 Berikut merupakan visualisasi arus keluar masuk penduduk Indonesia pada tiap provinsi pada tahun 2020 menggunakan Tableau Public
