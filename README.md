@@ -6,4 +6,4 @@ Berikut merupakan beberapa contoh karya dan pencapaian saya untuk digunakan seba
 4.	Top 3 Best Final Project Bootcamp Data Analyst with Excel (ditunjukkan oleh file hasil kerja, ss chat)
 5.	Tersertifikasi Resmi sebagai Excel Expert oleh Microsoft (ditunjukkan oleh sertifikat)
 6.	Analisa Portofolio Saham dengan Streamlit pada Pemrograman Python (ditunjukkan oleh link dan ss hasil kerja)
-7.	Visualisasi Data Migrasi Indonesia Menggunakan Tableau Public (ditunjukkan oleh link dan ss hasil kerja)
+7.	Visualisasi Data Migrasi Indonesia Menggunakan Tableau Public dapat dilihat pada [Link Berikut] (https://public.tableau.com/app/profile/raka.andriawan/viz/ArusMigrasiIndonesia2020/Migration_Maps)
