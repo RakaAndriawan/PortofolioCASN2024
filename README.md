@@ -1,5 +1,7 @@
 ## Portofolio CASN 2024
-Berikut merupakan beberapa contoh karya dan pencapaian saya untuk digunakan sebagai pertimbangan dalam seleksi CASN Tahun 2024
+Untuk mempermudah, berikut file rangkuman berupa PPT yang berisikan portofolio [Klik Link Ini](https://github.com/RakaAndriawan/PortofolioCASN2024/blob/main/PPT%20Portofolio%20Raka%20Andriawan.pptx)
+
+Dalam PPT tersebut, terdapat beberapa contoh karya dan pencapaian saya untuk digunakan sebagai pertimbangan dalam seleksi CASN Tahun 2024
 #### 1.	Tersertifikasi Resmi sebagai Excel Expert oleh Microsoft
 Sertifikasi Excel Expert oleh Microsoft adalah salah satu sertifikasi resmi yang diakui secara internasional dalam rangkaian Microsoft Office Specialist (MOS). Sertifikasi ini dirancang untuk membuktikan kemampuan tingkat lanjut dalam menggunakan Microsoft Excel, khususnya dalam memanfaatkan fitur-fitur canggih aplikasi tersebut.
 
